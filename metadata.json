@@ -1,0 +1,5 @@
+{
+  "name": "Designi Clone Pro",
+  "description": "A robust design resource marketplace clone featuring a public gallery and an administrative panel for uploading dual-file assets (JPG + PSD). Includes AI-powered auto-tagging using Gemini 2.5.",
+  "requestFramePermissions": []
+}
